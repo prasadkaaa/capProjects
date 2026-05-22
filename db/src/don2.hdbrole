@@ -1,0 +1,18 @@
+{
+  "role": {
+    "name": "don2",
+    "object_privileges": [
+      {
+        "name": "DONO_EMPLOYEE",
+        "type": "TABLE",
+        "privileges": [
+          "SELECT",
+          "INSERT"
+        ]
+      }
+    ]
+  }
+}
+
+
+
