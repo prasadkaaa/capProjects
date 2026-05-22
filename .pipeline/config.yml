@@ -1,0 +1,10 @@
+general:
+  buildTool: "mta"
+
+service:
+  buildToolVersion:
+    mbt: "1.2.27"
+
+steps:
+  artifactPrepareVersion:
+    enabled: false
