@@ -6,3 +6,5 @@ service MyService {
     entity COMP as projection on dono.company;
 
 }
+
+//test cicd
